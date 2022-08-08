@@ -1,0 +1,12 @@
+{
+  "name": "lumusic",
+  "main": "src/index.ts",
+  "description": "Music tools for use with lumidi",
+  "authors": "Oscar Lundberg",
+  "version": "1.0.0",  
+  "devDependencies": {
+    "typedoc": "^0.23.10",
+    "typedoc-github-wiki-theme": "^1.0.1",
+    "typedoc-plugin-markdown": "^3.13.4"
+  }
+}
